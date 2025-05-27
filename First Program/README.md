@@ -18,7 +18,7 @@ public class Main {
 ```java
 public static void main(String[] args) {
 ```
-- This is the main method, the entry point of any Java pro**gram.
+- This is the main method, the entry point of any Java program.
 
 - **public**: The method is accessible from anywhere.
 
