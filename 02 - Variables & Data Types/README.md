@@ -22,9 +22,10 @@ Every variable must have a data type, which tells Java what kind of data the var
 
 - Data types define the kind of data a variable can store.
 
-- Java has several built-in data types:
+- Java has two categories of data types:
        
     ### 1. Primitive 
+    - Built-In
     - Immutable, meaning their value cannot be changed once created.
     - Stored in the stack memory. 
 
@@ -46,6 +47,7 @@ Every variable must have a data type, which tells Java what kind of data the var
 
 
     ### 2. Non-Primitive 
+    - Reference Type - Instead of holding the actual value, it holds a reference (memory address) pointing to where the object is stored in memory.
     - Mutable, meaning their contents can be modified.
     - Stored in the heap memory.
 
@@ -56,3 +58,4 @@ Every variable must have a data type, which tells Java what kind of data the var
     - **Classes & Objects**: User-defined types to model real-world entities.
 
     - **Interfaces**: Used to achieve abstraction and multiple inheritance.
+

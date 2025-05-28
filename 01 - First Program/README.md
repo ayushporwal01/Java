@@ -5,7 +5,7 @@ This is a simple Java program that prints "Hello, World!" to the console. It is 
 ## Explanation
 
 ```java
-public class Main {
+public class Main
 ```
 - In Java, everything starts with a class.
 
