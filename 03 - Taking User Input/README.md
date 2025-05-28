@@ -38,7 +38,7 @@ Java provides easy-to-use tools for reading input from the keyboard, allowing yo
 - `java.util.Scanner`
     - **java**: Top level package in java.
     - **util**: A subpackage inside java that contains utility classes.
-    - **Scanner**: A class inside the `java.util` package used for reading input. 
+    - **Scanner**: A class inside the `util` package used for reading input. 
 <br>
 
 
