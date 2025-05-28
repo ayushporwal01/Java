@@ -4,7 +4,7 @@ In most programs, interacting with the user is essential. To make your Java prog
 
 Java provides easy-to-use tools for reading input from the keyboard, allowing you to capture data typed by the user. The most common way to do this is by using the `Scanner` class, which is part of the `java.util` package.
 <br>
-
+<br>
 
 ## What is **java.util** package?
 
