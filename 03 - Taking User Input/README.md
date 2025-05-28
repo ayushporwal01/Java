@@ -46,7 +46,7 @@ Java provides easy-to-use tools for reading input from the keyboard, allowing yo
  Scanner sc = new Scanner(System.in); 
 ```
 - Scanner: The class used to read input.
-- sc: The variable name (an object of Scanner).
+- sc: An object of scanner class.
 - new Scanner: Creates a new Scanner object.
 - System.in: The standard input stream, usually the keyboard.
 <br>
@@ -55,8 +55,6 @@ Java provides easy-to-use tools for reading input from the keyboard, allowing yo
 ```java
  sc.close(); 
 ```
-
-- sc: object of Scanner class.
 
 - close()
    - A method of Scanner class.
