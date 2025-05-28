@@ -2,23 +2,23 @@
 
 In most programs, interacting with the user is essential. To make your Java programs dynamic and useful, you need a way to get input from the user during the program’s execution. This input can be anything—like a name, number, or choice—that your program will process and respond to.
 
-Java provides easy-to-use tools for reading input from the keyboard, allowing you to capture data typed by the user. The most common way to do this is by using the `Scanner` class, which is part of the `java.util` package.
+Java provides easy-to-use tools for reading input from the keyboard, allowing you to capture data typed by the user. The most common way to do this is by using the `Scanner` class, which is part of the `util` package.
 <br>
 <br>
 
-## What is **java.util** package?
+## What is **util** package?
 
-- The `java.util` package is a part of the Java Standard Library.
+- The `util` package is a part of the Java Standard Library.
 - It contains utility classes that provide useful functions and data structures.
 
-- Examples of classes in `java.util` include:
+- Examples of classes in `util` package include:
     - Collections like **ArrayList**, **HashSet**, **HashMap**
     - Utility classes like **Date**, **Calendar**, **Random**
     - Classes for formatting, scanning, etc.
 <br>
 
 ## What is the **Scanner** class?
-- `Scanner` class is the part of `java.util` package.
+- `Scanner` class is the part of `util` package.
 - It is used to read input from various sources like:
    - Keyboard (console)
    - Files
